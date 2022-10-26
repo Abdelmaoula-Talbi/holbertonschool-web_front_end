@@ -3,7 +3,7 @@
 
 /* define some properties for root element */
 
-*::before, *::after {
+*, *::before, *::after {
 	box-sizing: border-box;
 }
 
